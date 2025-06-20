@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hakuba Tea Ceremony Experience - Nagisan-an</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fdfdfd;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #3e6b48;
+      color: white;
+      padding: 2em 1em;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    .content {
+      padding: 2em;
+      max-width: 800px;
+      margin: auto;
+    }
+    .image {
+      text-align: center;
+      margin-bottom: 1.5em;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+    .map {
+      margin: 2em 0;
+      text-align: center;
+    }
+    iframe {
+      width: 100%;
+      height: 300px;
+      border: 0;
+    }
+    .button {
+      display: block;
+      width: fit-content;
+      background-color: #5f8b57;
+      color: white;
+      padding: 0.8em 1.5em;
+      text-decoration: none;
+      border-radius: 5px;
+      margin: 2em auto;
+      text-align: center;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+      padding: 2em 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Hakuba Tea Ceremony Experience</h1>
+    <p>at Nagisan-an, Happo-One, Hakuba</p>
+  </header>
+
+  <div class="content">
+    <div class="image">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tea_ceremony_4.jpg/1024px-Tea_ceremony_4.jpg" alt="Japanese tea ceremony">
+    </div>
+    <p>
+      Welcome to our authentic Japanese tea ceremony experience in Hakuba!  
+      Hosted by Mieko in a traditional kimono, this session introduces the charm of matcha and Japanese culture to international visitors.
+    </p>
+    <p>
+      Located just steps from the Nakiyama Slope of Happo-One Ski Resort, we offer a calm, welcoming space to enjoy matcha, learn etiquette, and experience Japanese hospitality.
+    </p>
+
+    <a class="button" href="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd3JCz4AcW_6rPsS5XvUeCPPwEG-hMXEKPSaGSu1LYchv7JhA/viewform?embedded=true" width="640" height="1937" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>" target="_blank">Make a Reservation</a>
+
+    <div class="map">
+      <h2>Location</h2>
+      <iframe 
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3260.5029578915264!2d137.82789991524497!3d36.69184067996839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601d1544f32db2c3%3A0xe3db64eaf1fa7851!2sNakiyama%20Slope!5e0!3m2!1sen!2sjp!4v1718888888888" 
+        allowfullscreen="" 
+        loading="lazy" 
+        referrerpolicy="no-referrer-when-downgrade">
+      </iframe>
+    </div>
+
+    <p style="text-align:center;">
+      Contact: <a href="mailto:Mieko.tea.ceremony@gmail.com">Mieko.tea.ceremony@gmail.com</a>
+    </p>
+  </div>
+
+  <footer>
+    &copy; 2025 Hakuba Tea Ceremony Experience – Nagisan-an
+  </footer>
+
+</body>
+</html>
